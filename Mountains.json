@@ -1,0 +1,466 @@
+[
+  {
+    "name": "mt. everest",
+    "latitude": "27.9881",
+    "longitude": "86.9281",
+    "height": "8848.86m",
+    "district": "Solukhumbu",
+    "heritageFlag": true
+  },
+  {
+    "name": "dhaulagiri",
+    "latitude": "28.6985",
+    "longitude": "83.4873",
+    "height": "8167m",
+    "district": "Myagdi /Dolpa /Bajhang ",
+    "heritageFlag": true
+  },
+  {
+    "name": "kanchenjunga",
+    "latitude": "27.702777",
+    "longitude": "88.147535",
+    "height": "8586m",
+    "district": "Taplejung",
+    "heritageFlag": true
+  },
+  {
+    "name": "varaha shikhar",
+    "latitude": "28.5781",
+    "longitude": "83.8033",
+    "height": "7647m",
+    "district": "Myagdi / Kaski",
+    "heritageFlag": false
+  },
+  {
+    "name": "ngojumba khang",
+    "latitude": "28.1064",
+    "longitude": "86.7086",
+    "height": "7743m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "lhotse",
+    "latitude": "27.961944",
+    "longitude": "86.936667",
+    "height": "8516m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "yalung khang",
+    "latitude": "27.705",
+    "longitude": "88.138611",
+    "height": "8505m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "makalu",
+    "latitude": "27.8857",
+    "longitude": "87.0876",
+    "height": "8463m",
+    "district": "Sankhuwasabha",
+    "heritageFlag": true
+  },
+  {
+    "name": "chooyu",
+    "latitude": "28.0960",
+    "longitude": "86.6615",
+    "height": "8201m",
+    "district": "Solukhumbu",
+    "heritageFlag": true
+  },
+  {
+    "name": "manaslu",
+    "latitude": "28.550278",
+    "longitude": "84.561667",
+    "height": "8163m",
+    "district": "Manang / Gorkha",
+    "heritageFlag": true
+  },
+  {
+    "name": "annapurna",
+    "latitude": "28.6136291",
+    "longitude": "83.8633114",
+    "height": "8091m",
+    "district": "Myagdi /Kaski /Manang",
+    "heritageFlag": true
+  },
+  {
+    "name": "gyachung khang",
+    "latitude": "28.0980741",
+    "longitude": "86.7319223",
+    "height": "7952m",
+    "district": "Solukhumbu",
+    "heritageFlag": true
+  },
+  {
+    "name": "tenzing peak",
+    "latitude": "28.1058",
+    "longitude": "86.6847",
+    "height": "7916m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "khangbachen",
+    "latitude": "27.7166182",
+    "longitude": "88.1002003",
+    "height": "7903m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "himal chuli",
+    "latitude": "28.4366846",
+    "longitude": "84.6297003",
+    "height": "7893m",
+    "district": "Lamjung / Gorkha",
+    "heritageFlag": false
+  },
+  {
+    "name": "dr. harka gurung chuli",
+    "latitude": "28.5033",
+    "longitude": "84.5686",
+    "height": "7871m",
+    "district": "Manang / Gorkha",
+    "heritageFlag": false
+  },
+  {
+    "name": "nuptse",
+    "latitude": "27.9672373",
+    "longitude": "86.8752394",
+    "height": "7855m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "kumbhakarna",
+    "latitude": "27.682222",
+    "longitude": "88.046389",
+    "height": "7710m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "hillary peak",
+    "latitude": "28.106667",
+    "longitude": "86.716111",
+    "height": "7681m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "khambachen",
+    "latitude": "27.7175",
+    "longitude": "88.1581",
+    "height": "7784m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "khangsar khang",
+    "latitude": "28.609167",
+    "longitude": "83.860278",
+    "height": "7555m",
+    "district": "Myagdi / Kaski",
+    "heritageFlag": false
+  },
+  {
+    "name": "jongsang peak",
+    "latitude": "27.881111",
+    "longitude": "88.138056",
+    "height": "7483m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "shartse",
+    "latitude": "27.9495945",
+    "longitude": "86.9729564",
+    "height": "7457m",
+    "district": "Solukhumbu / Sankhuwasabha",
+    "heritageFlag": false
+  },
+  {
+    "name": "gangapurna",
+    "latitude": "28.605018",
+    "longitude": "83.9530336",
+    "height": "7455m",
+    "district": "Kaski / Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "ganesh",
+    "latitude": "28.391667",
+    "longitude": "85.128889",
+    "height": "7429m",
+    "district": "Gorkha",
+    "heritageFlag": false
+  },
+  {
+    "name": "churen",
+    "latitude": "28.732222",
+    "longitude": "83.212222",
+    "height": "7371m",
+    "district": "Dolpa / Myagdi",
+    "heritageFlag": false
+  },
+  {
+    "name": "kabru",
+    "latitude": "27.635278",
+    "longitude": "88.121389",
+    "height": "7412m",
+    "district": "",
+    "heritageFlag": false
+  },
+  {
+    "name": "kirat chuli",
+    "latitude": "27.788611",
+    "longitude": "88.198333",
+    "height": "7465m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "gimigela chuli",
+    "latitude": "27.740556",
+    "longitude": "88.161111",
+    "height": "7350m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "talung",
+    "latitude": "27.654722",
+    "longitude": "88.133611",
+    "height": "7249m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "nemjung",
+    "latitude": "28.756944",
+    "longitude": "84.418056",
+    "height": "7339m",
+    "district": "Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "chamlang",
+    "latitude": "27.775278",
+    "longitude": "86.982222",
+    "height": "7319m",
+    "district": "Solukhumbu / Sankhuwasabha",
+    "heritageFlag": false
+  },
+  {
+    "name": "nagpai gosum",
+    "latitude": "28.070556",
+    "longitude": "86.637778",
+    "height": "7312m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "pasang lhamu chuli",
+    "latitude": "28.0733",
+    "longitude": "86.6169",
+    "height": "7351m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "putha hiun chuli",
+    "latitude": "28.747778",
+    "longitude": "83.148056",
+    "height": "7246m",
+    "district": "Dolpa / Rukum / Myagdi",
+    "heritageFlag": false
+  },
+  {
+    "name": "langtang lirung",
+    "latitude": "28.256111",
+    "longitude": "85.519444",
+    "height": "7234m",
+    "district": "Rasuwa",
+    "heritageFlag": false
+  },
+  {
+    "name": "tarke khang",
+    "latitude": "28.605000",
+    "longitude": "83.916111",
+    "height": "7193m",
+    "district": "Kaski / Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "gujra himal",
+    "latitude": "28.674167",
+    "longitude": "83.277778",
+    "height": "7193m",
+    "district": "Myagdi",
+    "heritageFlag": false
+  },
+  {
+    "name": "chamar",
+    "latitude": "28.546667",
+    "longitude": "84.950556",
+    "height": "7187m",
+    "district": "Gorkha",
+    "heritageFlag": false
+  },
+  {
+    "name": "nepal peak",
+    "latitude": "27.776389",
+    "longitude": "88.185278",
+    "height": "7177m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "pumo ri",
+    "latitude": "28.015000",
+    "longitude": "86.830556",
+    "height": "7161m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "gaurishankar",
+    "latitude": "27.965000",
+    "longitude": "86.337778",
+    "height": "7135m",
+    "district": "Dolakha",
+    "heritageFlag": false
+  },
+  {
+    "name": "shanti shikhar",
+    "latitude": "27.9553",
+    "longitude": "86.9675",
+    "height": "7591m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "tilicho peak",
+    "latitude": "28.682500",
+    "longitude": "83.813889",
+    "height": "7134m",
+    "district": "Myagdi / Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "api",
+    "latitude": "30.005278",
+    "longitude": "80.931667",
+    "height": "7132m",
+    "district": "Dharchula",
+    "heritageFlag": false
+  },
+  {
+    "name": "barun tse",
+    "latitude": "27.871389",
+    "longitude": "86.983056",
+    "height": "7129m",
+    "district": "Solukhumbu / Sankhuwasabha",
+    "heritageFlag": false
+  },
+  {
+    "name": "ratna chuli",
+    "latitude": "28.864444",
+    "longitude": "84.377222",
+    "height": "7128m",
+    "district": "Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "himlung himal",
+    "latitude": "28.771667",
+    "longitude": "84.424722",
+    "height": "7126m",
+    "district": "Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "pathibara chuli",
+    "latitude": "27.820556",
+    "longitude": "88.175833",
+    "height": "7125m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "nampa chuli",
+    "latitude": "29.980833",
+    "longitude": "81.016944",
+    "height": "7110m",
+    "district": "Dharchula / Bajhang",
+    "heritageFlag": false
+  },
+  {
+    "name": "himlung",
+    "latitude": "28.7716846",
+    "longitude": "84.4122003",
+    "height": "7092m",
+    "district": "Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "nilgiri",
+    "latitude": "28.6900",
+    "longitude": "83.7464",
+    "height": "7061m",
+    "district": "Mustang / Myagdi",
+    "heritageFlag": false
+  },
+  {
+    "name": "thulagi peak",
+    "latitude": "28.527518",
+    "longitude": "84.5105336",
+    "height": "7059m",
+    "district": "Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "gyajikang",
+    "latitude": "28.7333513",
+    "longitude": "84.3613669",
+    "height": "7038m",
+    "district": "Manang",
+    "heritageFlag": false
+  },
+  {
+    "name": "saipal",
+    "latitude": "29.8878",
+    "longitude": "81.4947",
+    "height": "7031m",
+    "district": "Humla / Bajhang",
+    "heritageFlag": false
+  },
+  {
+    "name": "hunchhi",
+    "latitude": "28.0347",
+    "longitude": "86.7611",
+    "height": "7029m",
+    "district": "Solukhumbu",
+    "heritageFlag": false
+  },
+  {
+    "name": "nepal gyap peak",
+    "latitude": "27.7464",
+    "longitude": "88.1808",
+    "height": "7007m",
+    "district": "Taplejung",
+    "heritageFlag": false
+  },
+  {
+    "name": "gauri",
+    "latitude": "27.9372",
+    "longitude": "86.3503",
+    "height": "6983m",
+    "district": "Dolakha",
+    "heritageFlag": false
+  }
+]
