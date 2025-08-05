@@ -18,6 +18,33 @@ It is intended to serve as a resource for developers, researchers, students, and
 ```text
 📁 data/
 ├── nepal.json                          # National boundary of Nepal.
+├── Protected Areas/
+│   ├── AnnapurnaConversationArea.json
+│   ├── ApiNampaConversationArea.json
+│   ├── BankeNationalPark.json
+│   ├── BankeNationalParkBufferZone.json
+│   ├── BardiaNationalPark.json
+│   ├── BardiaNationalParkBufferZone.json
+│   ├── ChitwanNationalPark.json
+│   ├── ChitwanNationalParkBufferZone.json
+│   ├── DhorpatanHuntingReserve.json
+│   ├── GauriShankarConversationArea.json
+│   ├── KanchanungaConversationArea.json
+│   ├── KhaptadNationalPark.json
+│   ├── KoshiTapuWildlifeReservedArea.json
+│   ├── KoshiTapuWildlifeReservedBufferZone.json
+│   ├── KrishnasarConversationArea.json
+│   ├── LangtangNationalPark.json
+│   ├── MakaluBarunNationalPark.json
+│   ├── ManasluConversationArea.json
+│   ├── ParsaNationalPark.json
+│   ├── ParsaNationalParkBufferZone.json
+│   ├── RaraNationalPark.json
+│   ├── SagarmathaNationalPark.json
+│   ├── ShivapuriNationalPark.json
+│   ├── ShuklapantaNationalParkBufferZone.json
+│   ├── ShuklapantaNationalPark.json
+│   ├── TsheyPhoksundoNationalPark.json
 ├── provinces/
 │   ├── Province1.json                  # Province No. 1.
 │   ├── Province2.json                  # Province No. 2.
