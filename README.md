@@ -25,8 +25,16 @@ It is intended to serve as a resource for developers, researchers, students, and
 │   ├── Province4.json                  # Gandaki Province.
 │   ├── Province5.json                  # Lumbini Province.
 │   ├── Province6.json                  # Karnali Province.
-│   └── Province7.geojson              # Sudurpashchim Province.
+│   └── Province7.json              # Sudurpashchim Province.
 ├── Lakes.json                          # Major lakes in Nepal.
 ├── Mountains.json                      # Major mountains in Nepal.
 └── ProtectedAreas.json                 # National parks and conservation areas.
+```
+
+## Resize GeoJSON file
+
+If you find geoJSON file is too large then you can resize the GeoJSON file in the link below:
+
+```
+https://mapshaper.org/
 ```
